@@ -19,6 +19,7 @@ public class Stock {
 			min=prices[i];
 	}
 	
+	// chera commit nemikoneee
 	
 	return profit;
 	
